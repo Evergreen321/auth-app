@@ -1,0 +1,35 @@
+.profile {
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.profile h1 {
+  font-size: 5rem;
+}
+
+.userCard {
+  display: flex;
+  gap: 2rem;
+  width: 95%;
+  max-width: 35rem;
+  margin: 2rem auto;
+}
+
+.userLogo {
+  max-width: 150px;
+  max-height: 150px;
+  width: 100%;
+}
+
+.userName {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #1d1d1d;
+  margin: 0rem;
+}
+
+.userLocation {
+  font-style: italic;
+  color: #1d1d1d;
+  margin: 0rem;
+}

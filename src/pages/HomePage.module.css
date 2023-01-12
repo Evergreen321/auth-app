@@ -1,0 +1,14 @@
+.starting {
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.starting h1 {
+  font-size: 5rem;
+}
+
+.text {
+  font-family: "Helvetica", sans-serif;
+  font-size: 2rem;
+  color: #1d1d1d;
+}
